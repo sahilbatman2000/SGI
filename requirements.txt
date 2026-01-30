@@ -1,14 +1,3 @@
-aext-assistant==4.1.0
-aext-assistant-server==4.1.0
-aext-core==4.1.0
-aext-core-server==4.1.0
-aext-panels==4.1.0
-aext-panels-server==4.1.0
-aext-project-filebrowser-server==4.1.0
-aext-share-notebook==4.1.0
-aext-share-notebook-server==4.1.0
-aext-shared==4.1.0
-aext-toolbox==4.1.0
 aiobotocore==2.12.3
 aiohttp==3.9.5
 aioitertools==0.7.1
